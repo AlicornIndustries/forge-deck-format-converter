@@ -4,8 +4,8 @@ For example:
 Input | Output
 -------- | --------
 Deck | Main
-1 Charming Prince (ELD) 8 | 1 Charming Prince|ELD|
-8 Plains (IKO) 262 | 8 Plains|IKO|
+1 Charming Prince (ELD) 8 | 1 Charming Prince\|ELD\|
+8 Plains (IKO) 262 | 8 Plains\|IKO\|
 
 ***
 
