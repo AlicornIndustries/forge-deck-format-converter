@@ -11,7 +11,7 @@ Deck | Main
 
 
 Task list:
-- [ ] Basic functionality
+- [x] Basic functionality
 - [ ] Handle newlines between sections
 - [ ] Better handling for section titles
 - [ ] Optionally load deck list from file
